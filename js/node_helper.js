@@ -76,7 +76,6 @@ const NodeHelper = Class.extend({
 	 */
 	setExpressApp(app) {
 		this.expressApp = app;
-
 		app.use(`/${this.name}`, express.static(`${this.path}/public`));
 	},
 

@@ -16,6 +16,7 @@
   --gap-body-bottom: 60px;
   --gap-body-left: 60px;
   --gap-modules: 30px;
+  --text-shadow: 0 0 3px #000000;
 }
 
 html {
@@ -49,14 +50,17 @@ body {
 
 .dimmed {
   color: var(--color-text-dimmed);
+  text-shadow: var(--text-shadow);
 }
 
 .normal {
   color: var(--color-text);
+  text-shadow: var(--text-shadow);
 }
 
 .bright {
   color: var(--color-text-bright);
+  text-shadow: var(--text-shadow);
 }
 
 .xsmall {
