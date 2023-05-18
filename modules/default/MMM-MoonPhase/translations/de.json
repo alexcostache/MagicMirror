@@ -1,0 +1,13 @@
+{
+  "TITLE": "Mondphase",
+  "UPDATE": "aktualisiere",
+  "NEW": "Neumond",
+  "WAX_CRESC": "zunehmender Halbmond",
+  "FIRST": "erstes Viertel",
+  "WAX_GIB": "zunehmender Dreiviertelmond",
+  "FULL": "Vollmond",
+  "WAN_GIB": "abnehmender Dreiviertelmond",
+  "THIRD": "drittes Viertel",
+  "WAN_CRESC": "abnehmender Halbmond",
+  "DAYS": "Tage"
+}
